@@ -3,7 +3,7 @@
 ## Site identity
 - **Name**: Quizykoo Learning
 - **Purpose**: Master brand hub linking all three book imprints
-- **Live artifact**: https://claude.ai/artifact/QEWKsqGADfbaEmsfAe66G4 (Version 3)
+- **Live artifact**: https://claude.ai/artifact/QEWKsqGADfbaEmsfAe66G4 (Version 6 — with logo, testimonials, live URLs, book covers)
 - **Contact email**: hello@quizykoo.com
 
 ## File structure
